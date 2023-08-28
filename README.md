@@ -1,6 +1,9 @@
 # codepath-prework
 codepath prework project
 
+
+/private/var/folders/7h/d0x0gj3x6vb91stpp49g52q40000gn/T/41d76d0b8a54f8069a9912f926b07e08/Kapture 2023-08-27 at 22.51.30.gif
+
 ## App Brainstorming
 
 1. YouVersion Bible App
